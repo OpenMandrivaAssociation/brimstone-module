@@ -3,7 +3,7 @@
 
 Name:           brimstone-module
 Version:        0.1.27
-Release:        %mkrel 0.0.5
+Release:        1
 Epoch:          0
 Summary:        org.freecompany.brimstone
 License:        MIT
